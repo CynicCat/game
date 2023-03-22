@@ -1,0 +1,826 @@
+fileFormatVersion: 2
+guid: ad60da16d00acff4dab8e333ddc5f455
+TextureImporter:
+  internalIDToNameTable: []
+  externalObjects: {}
+  serializedVersion: 11
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMasterTextureLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 0
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 16384
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 0
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Server
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: call32_0
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 0
+        width: 109
+        height: 117
+      alignment: 9
+      pivot: {x: 0.56, y: 0.38}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 266340117ad716e46898aaedcc2b7a8a
+      internalID: -64538625
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: call32_1
+      rect:
+        serializedVersion: 2
+        x: 109
+        y: 0
+        width: 109
+        height: 117
+      alignment: 9
+      pivot: {x: 0.56, y: 0.38}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 85aa5a76bdc5643429ede2ed7be7f6ad
+      internalID: -1800197786
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: call32_2
+      rect:
+        serializedVersion: 2
+        x: 218
+        y: 0
+        width: 109
+        height: 117
+      alignment: 9
+      pivot: {x: 0.56, y: 0.38}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f3e778bd9d799f04e900da6c4fc760da
+      internalID: -1486039496
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: call32_3
+      rect:
+        serializedVersion: 2
+        x: 327
+        y: 0
+        width: 109
+        height: 117
+      alignment: 9
+      pivot: {x: 0.56, y: 0.38}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 75d8f69d775920e48a3d9e7e32ac1def
+      internalID: 2123666263
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: call32_4
+      rect:
+        serializedVersion: 2
+        x: 436
+        y: 0
+        width: 109
+        height: 117
+      alignment: 9
+      pivot: {x: 0.56, y: 0.38}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bb5c1859dee68b54e99b63b73e24eea6
+      internalID: -368874745
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: call32_5
+      rect:
+        serializedVersion: 2
+        x: 545
+        y: 0
+        width: 109
+        height: 117
+      alignment: 9
+      pivot: {x: 0.56, y: 0.38}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6cb7fe037e79cca4c83a04ad1b5c99d5
+      internalID: 724738100
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: call32_6
+      rect:
+        serializedVersion: 2
+        x: 654
+        y: 0
+        width: 109
+        height: 117
+      alignment: 9
+      pivot: {x: 0.56, y: 0.38}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9237800d12c75d847b4828df619b4b33
+      internalID: 923403745
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: call32_7
+      rect:
+        serializedVersion: 2
+        x: 763
+        y: 0
+        width: 109
+        height: 117
+      alignment: 9
+      pivot: {x: 0.56, y: 0.38}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4c833ddeadb0aa645b7d7a818cfcb16e
+      internalID: -1441936433
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: call32_8
+      rect:
+        serializedVersion: 2
+        x: 872
+        y: 0
+        width: 109
+        height: 117
+      alignment: 9
+      pivot: {x: 0.56, y: 0.38}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fc6cda46516636b4fafb6661e07ede1b
+      internalID: 2067373427
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: call32_9
+      rect:
+        serializedVersion: 2
+        x: 981
+        y: 0
+        width: 109
+        height: 117
+      alignment: 9
+      pivot: {x: 0.56, y: 0.38}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b55bc39f8870e8d44915ed8870e25a05
+      internalID: -1071087564
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: call32_10
+      rect:
+        serializedVersion: 2
+        x: 1090
+        y: 0
+        width: 109
+        height: 117
+      alignment: 9
+      pivot: {x: 0.56, y: 0.38}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 73afd14c5195a764eb917067e424559f
+      internalID: -2138115498
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: call32_11
+      rect:
+        serializedVersion: 2
+        x: 1199
+        y: 0
+        width: 109
+        height: 117
+      alignment: 9
+      pivot: {x: 0.56, y: 0.38}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7b7c2c79ac8c24947b7e60eaa9b6d4b1
+      internalID: -190467480
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: call32_12
+      rect:
+        serializedVersion: 2
+        x: 1308
+        y: 0
+        width: 109
+        height: 117
+      alignment: 9
+      pivot: {x: 0.56, y: 0.38}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1185713193ba20c438ce3121caea8ddf
+      internalID: -1330165625
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: call32_13
+      rect:
+        serializedVersion: 2
+        x: 1417
+        y: 0
+        width: 109
+        height: 117
+      alignment: 9
+      pivot: {x: 0.56, y: 0.38}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b0224bdeccfe2304198e3bcbd8b2a1b7
+      internalID: -328305421
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: call32_14
+      rect:
+        serializedVersion: 2
+        x: 1526
+        y: 0
+        width: 109
+        height: 117
+      alignment: 9
+      pivot: {x: 0.56, y: 0.38}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 31bf4e1c971a55449a770a4cdcf8fcc6
+      internalID: 802519774
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: call32_15
+      rect:
+        serializedVersion: 2
+        x: 1635
+        y: 0
+        width: 109
+        height: 117
+      alignment: 9
+      pivot: {x: 0.56, y: 0.38}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e289e4d9af236e64cbba6cfd79bed235
+      internalID: -1367960681
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: call32_16
+      rect:
+        serializedVersion: 2
+        x: 1744
+        y: 0
+        width: 109
+        height: 117
+      alignment: 9
+      pivot: {x: 0.56, y: 0.38}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4f8d8a67a6c5af94b9604cc144843c54
+      internalID: -454490483
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: call32_17
+      rect:
+        serializedVersion: 2
+        x: 1853
+        y: 0
+        width: 109
+        height: 117
+      alignment: 9
+      pivot: {x: 0.56, y: 0.38}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 45836676385fbdb4e85adf01d0dc4e0d
+      internalID: 1847093148
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: call32_18
+      rect:
+        serializedVersion: 2
+        x: 1962
+        y: 0
+        width: 109
+        height: 117
+      alignment: 9
+      pivot: {x: 0.56, y: 0.38}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 996ccad5d09728d4d8e355a34e45e7ea
+      internalID: -1973563259
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: call32_19
+      rect:
+        serializedVersion: 2
+        x: 2071
+        y: 0
+        width: 109
+        height: 117
+      alignment: 9
+      pivot: {x: 0.56, y: 0.38}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3c7fa81296d801d45b8d3b0f6ec06d5d
+      internalID: -1020199615
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: call32_20
+      rect:
+        serializedVersion: 2
+        x: 2180
+        y: 0
+        width: 109
+        height: 117
+      alignment: 9
+      pivot: {x: 0.56, y: 0.38}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e02fc1fc7c9ab3244b91349d51aa76ad
+      internalID: 149279328
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: call32_21
+      rect:
+        serializedVersion: 2
+        x: 2289
+        y: 0
+        width: 109
+        height: 117
+      alignment: 9
+      pivot: {x: 0.56, y: 0.38}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7741ca4b3be4cca4e96dd38a1ec9b18b
+      internalID: -1244531089
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: call32_22
+      rect:
+        serializedVersion: 2
+        x: 2398
+        y: 0
+        width: 109
+        height: 117
+      alignment: 9
+      pivot: {x: 0.56, y: 0.38}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9f8ab3c63c04f9a469ebf7cda38a3ce4
+      internalID: 1527949026
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: call32_23
+      rect:
+        serializedVersion: 2
+        x: 2507
+        y: 0
+        width: 109
+        height: 117
+      alignment: 9
+      pivot: {x: 0.56, y: 0.38}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e73038d625c744b4c9425c2563044e88
+      internalID: -1254991634
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: call32_24
+      rect:
+        serializedVersion: 2
+        x: 2616
+        y: 0
+        width: 109
+        height: 117
+      alignment: 9
+      pivot: {x: 0.56, y: 0.38}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3c21dd96bb23623448712131cf585c6a
+      internalID: 1588617588
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: call32_25
+      rect:
+        serializedVersion: 2
+        x: 2725
+        y: 0
+        width: 109
+        height: 117
+      alignment: 9
+      pivot: {x: 0.56, y: 0.38}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c61578cd1b437a848a3270df5fa1dd7e
+      internalID: -513032136
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: call32_26
+      rect:
+        serializedVersion: 2
+        x: 2834
+        y: 0
+        width: 109
+        height: 117
+      alignment: 9
+      pivot: {x: 0.56, y: 0.38}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e9e83330829c10942a1342db38631e13
+      internalID: -511337241
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: call32_27
+      rect:
+        serializedVersion: 2
+        x: 2943
+        y: 0
+        width: 109
+        height: 117
+      alignment: 9
+      pivot: {x: 0.56, y: 0.38}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 97814abf3ba5bcc419f56ea9c2867eb9
+      internalID: 1036471791
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: call32_28
+      rect:
+        serializedVersion: 2
+        x: 3052
+        y: 0
+        width: 109
+        height: 117
+      alignment: 9
+      pivot: {x: 0.56, y: 0.38}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f31a1465562f7124ab8a8f748e5caf16
+      internalID: 460459004
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: call32_29
+      rect:
+        serializedVersion: 2
+        x: 3161
+        y: 0
+        width: 109
+        height: 117
+      alignment: 9
+      pivot: {x: 0.56, y: 0.38}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e9441463b13b2da479b048260067862e
+      internalID: 2083892630
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: call32_30
+      rect:
+        serializedVersion: 2
+        x: 3270
+        y: 0
+        width: 109
+        height: 117
+      alignment: 9
+      pivot: {x: 0.56, y: 0.38}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6331d3442eda091428964921b0cf2824
+      internalID: -1979638947
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: call32_31
+      rect:
+        serializedVersion: 2
+        x: 3379
+        y: 0
+        width: 109
+        height: 117
+      alignment: 9
+      pivot: {x: 0.56, y: 0.38}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d0e5754e8d15f9346822267cd047cdb6
+      internalID: -1224131214
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 5e97eb03825dee720800000000000000
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    nameFileIdTable:
+      call32_2: -1486039496
+      call32_19: -1020199615
+      call32_23: -1254991634
+      call32_13: -328305421
+      call32_28: 460459004
+      call32_3: 2123666263
+      call32_8: 2067373427
+      call32_7: -1441936433
+      call32_9: -1071087564
+      call32_18: -1973563259
+      call32_0: -64538625
+      call32_27: 1036471791
+      call32_20: 149279328
+      call32_26: -511337241
+      call32_30: -1979638947
+      call32_31: -1224131214
+      call32_5: 724738100
+      call32_15: -1367960681
+      call32_6: 923403745
+      call32_25: -513032136
+      call32_14: 802519774
+      call32_17: 1847093148
+      call32_24: 1588617588
+      call32_21: -1244531089
+      call32_10: -2138115498
+      call32_11: -190467480
+      call32_16: -454490483
+      call32_22: 1527949026
+      call32_29: 2083892630
+      call32_4: -368874745
+      call32_1: -1800197786
+      call32_12: -1330165625
+  spritePackingTag: 
+  pSDRemoveMatte: 0
+  pSDShowRemoveMatteOption: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

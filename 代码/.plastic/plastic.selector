@@ -1,0 +1,4 @@
+repository "Ai-Cthulhu@ssl://ai-cthulhu@cloud.cn"
+  path "/"
+    smartbranch "/main/ziqi8"      
+     

@@ -1,0 +1,826 @@
+fileFormatVersion: 2
+guid: fec9120ecf3cac446b662b3a23096280
+TextureImporter:
+  internalIDToNameTable: []
+  externalObjects: {}
+  serializedVersion: 11
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMasterTextureLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 0
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 16384
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 0
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Server
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: strattack_s_0
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 0
+        width: 236
+        height: 189
+      alignment: 9
+      pivot: {x: 0.08442798, y: 0.35404783}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9e63391367f39af4f9b677079fe1fecf
+      internalID: 2112426241
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: strattack_s_1
+      rect:
+        serializedVersion: 2
+        x: 236
+        y: 0
+        width: 236
+        height: 189
+      alignment: 9
+      pivot: {x: 0.09273891, y: 0.35600066}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3c53adbd63f12534f96706f8e8b68c16
+      internalID: -1317488236
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: strattack_s_2
+      rect:
+        serializedVersion: 2
+        x: 472
+        y: 0
+        width: 236
+        height: 189
+      alignment: 9
+      pivot: {x: 0.109548405, y: 0.36286438}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: df3ce35d3c7b0b841a5bc2b607912262
+      internalID: 288878631
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: strattack_s_3
+      rect:
+        serializedVersion: 2
+        x: 708
+        y: 0
+        width: 236
+        height: 189
+      alignment: 9
+      pivot: {x: 0.12797831, y: 0.3588996}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a46a7d7317a4e4a4ca64cda20c34a56b
+      internalID: 195451839
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: strattack_s_4
+      rect:
+        serializedVersion: 2
+        x: 944
+        y: 0
+        width: 236
+        height: 189
+      alignment: 9
+      pivot: {x: 0.14340003, y: 0.3597378}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 92bb2c03fb272484b86cafcf0d7d261e
+      internalID: -77565243
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: strattack_s_5
+      rect:
+        serializedVersion: 2
+        x: 1180
+        y: 0
+        width: 236
+        height: 189
+      alignment: 9
+      pivot: {x: 0.16214092, y: 0.35513487}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: aea028c66c4d1e545b7b3939a38e8c79
+      internalID: 428213847
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: strattack_s_6
+      rect:
+        serializedVersion: 2
+        x: 1416
+        y: 0
+        width: 236
+        height: 189
+      alignment: 9
+      pivot: {x: 0.18978468, y: 0.34902614}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ef867199d06a7db45b9c1f580229a55c
+      internalID: 1019865650
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: strattack_s_7
+      rect:
+        serializedVersion: 2
+        x: 1652
+        y: 0
+        width: 236
+        height: 189
+      alignment: 9
+      pivot: {x: 0.22423333, y: 0.33362055}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d3e56749056c21b44b1f5938fc78bcbf
+      internalID: 924108354
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: strattack_s_8
+      rect:
+        serializedVersion: 2
+        x: 1888
+        y: 0
+        width: 236
+        height: 189
+      alignment: 9
+      pivot: {x: 0.2596239, y: 0.33391216}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 67eb5412b10568349a5f43dfaa37254d
+      internalID: 77276994
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: strattack_s_9
+      rect:
+        serializedVersion: 2
+        x: 2124
+        y: 0
+        width: 236
+        height: 189
+      alignment: 9
+      pivot: {x: 0.292257, y: 0.3241303}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a1968dce793d12a408724b31163dc326
+      internalID: 1744040684
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: strattack_s_10
+      rect:
+        serializedVersion: 2
+        x: 2360
+        y: 0
+        width: 236
+        height: 189
+      alignment: 9
+      pivot: {x: 0.32715154, y: 0.32538927}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 183fe6756fd613d4e88358b82ad94feb
+      internalID: 2108391647
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: strattack_s_11
+      rect:
+        serializedVersion: 2
+        x: 2596
+        y: 0
+        width: 236
+        height: 189
+      alignment: 9
+      pivot: {x: 0.36, y: 0.31}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 17ef077790ca62f41ab68d0b11f96596
+      internalID: 26399440
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: strattack_s_12
+      rect:
+        serializedVersion: 2
+        x: 2832
+        y: 0
+        width: 236
+        height: 189
+      alignment: 9
+      pivot: {x: 0.39019257, y: 0.30657223}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9c79d61f87d15f749bbc60bace7833e7
+      internalID: 1197817084
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: strattack_s_13
+      rect:
+        serializedVersion: 2
+        x: 3068
+        y: 0
+        width: 236
+        height: 189
+      alignment: 9
+      pivot: {x: 0.4240402, y: 0.30014876}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b7a677ef6322eab44a40d9f5cb23d86d
+      internalID: 1115493537
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: strattack_s_14
+      rect:
+        serializedVersion: 2
+        x: 3304
+        y: 0
+        width: 236
+        height: 189
+      alignment: 9
+      pivot: {x: 0.45710883, y: 0.29275787}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9aef2f5dc29b56a4390d4de5162558ce
+      internalID: -1286475745
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: strattack_s_15
+      rect:
+        serializedVersion: 2
+        x: 3540
+        y: 0
+        width: 236
+        height: 189
+      alignment: 9
+      pivot: {x: 0.50354624, y: 0.27425143}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2e9f1a049fb446d4aaf0d86171d4cace
+      internalID: 1195305918
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: strattack_s_16
+      rect:
+        serializedVersion: 2
+        x: 3776
+        y: 0
+        width: 236
+        height: 189
+      alignment: 9
+      pivot: {x: 0.52574337, y: 0.27936757}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e657d923aa7150040b1b113547b337bb
+      internalID: 1721954552
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: strattack_s_17
+      rect:
+        serializedVersion: 2
+        x: 4012
+        y: 0
+        width: 236
+        height: 189
+      alignment: 9
+      pivot: {x: 0.57205254, y: 0.25900283}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 76904ca57e1bf794ba5b33ea05022ef7
+      internalID: -648364917
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: strattack_s_18
+      rect:
+        serializedVersion: 2
+        x: 4248
+        y: 0
+        width: 236
+        height: 189
+      alignment: 9
+      pivot: {x: 0.59085757, y: 0.2647501}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 45dfb4e7e9481dd428d40e19c2e47d2f
+      internalID: 810936700
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: strattack_s_19
+      rect:
+        serializedVersion: 2
+        x: 4484
+        y: 0
+        width: 236
+        height: 189
+      alignment: 9
+      pivot: {x: 0.62947726, y: 0.24656385}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ecefad1a23475d24a91013141ba355d7
+      internalID: -807242073
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: strattack_s_20
+      rect:
+        serializedVersion: 2
+        x: 4720
+        y: 0
+        width: 236
+        height: 189
+      alignment: 9
+      pivot: {x: 0.6587266, y: 0.2491326}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c3d31b5ec8c767049ad4662b5e3e9bd5
+      internalID: -943037584
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: strattack_s_21
+      rect:
+        serializedVersion: 2
+        x: 4956
+        y: 0
+        width: 236
+        height: 189
+      alignment: 9
+      pivot: {x: 0.6910628, y: 0.24423999}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bed38ec920fa9844094c988bb1b6453f
+      internalID: -725689506
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: strattack_s_22
+      rect:
+        serializedVersion: 2
+        x: 5192
+        y: 0
+        width: 236
+        height: 189
+      alignment: 9
+      pivot: {x: 0.72584045, y: 0.23215622}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e9465f1e9fbe49049b6b8d786967c3d0
+      internalID: 1985193684
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: strattack_s_23
+      rect:
+        serializedVersion: 2
+        x: 5428
+        y: 0
+        width: 236
+        height: 189
+      alignment: 9
+      pivot: {x: 0.7755044, y: 0.22374389}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f8b924fbfd25d9f4fafd4a60f3ad111a
+      internalID: 41578072
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: strattack_s_24
+      rect:
+        serializedVersion: 2
+        x: 5664
+        y: 0
+        width: 236
+        height: 189
+      alignment: 9
+      pivot: {x: 0.795375, y: 0.23054716}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e865f2aa4438ad84ebf5d7db8972499b
+      internalID: -1516449156
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: strattack_s_25
+      rect:
+        serializedVersion: 2
+        x: 5900
+        y: 0
+        width: 236
+        height: 189
+      alignment: 9
+      pivot: {x: 0.79024595, y: 0.22209781}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: df94ecd4d1b9dbb44894ea39628e633e
+      internalID: -799075818
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: strattack_s_26
+      rect:
+        serializedVersion: 2
+        x: 6136
+        y: 0
+        width: 236
+        height: 189
+      alignment: 9
+      pivot: {x: 0.7895549, y: 0.21826969}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b6aabef7ec658d74b9dfe782d029b9b1
+      internalID: 617263411
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: strattack_s_27
+      rect:
+        serializedVersion: 2
+        x: 6372
+        y: 0
+        width: 236
+        height: 189
+      alignment: 9
+      pivot: {x: 0.7888039, y: 0.22000737}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a1ca34adf3763d5439e605fa9c1a0c0e
+      internalID: -2034748133
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: strattack_s_28
+      rect:
+        serializedVersion: 2
+        x: 6608
+        y: 0
+        width: 236
+        height: 189
+      alignment: 9
+      pivot: {x: 0.7876473, y: 0.22198741}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6739b6f0fb8c1c14d9bb512d696dc174
+      internalID: -1500646266
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: strattack_s_29
+      rect:
+        serializedVersion: 2
+        x: 6844
+        y: 0
+        width: 236
+        height: 189
+      alignment: 9
+      pivot: {x: 0.788028, y: 0.2193892}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 83130fb6966c2064289a079e4318e1a2
+      internalID: -1763505081
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: strattack_s_30
+      rect:
+        serializedVersion: 2
+        x: 7080
+        y: 0
+        width: 236
+        height: 189
+      alignment: 9
+      pivot: {x: 0.78779423, y: 0.22094375}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6a3f9e8836880cb4aa0d4603c053fad9
+      internalID: 1752570411
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: strattack_s_31
+      rect:
+        serializedVersion: 2
+        x: 7316
+        y: 0
+        width: 236
+        height: 189
+      alignment: 9
+      pivot: {x: 0.7881232, y: 0.22146447}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9ae4be472fd99d646852c956e94b5eac
+      internalID: -1711073401
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 5e97eb03825dee720800000000000000
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    nameFileIdTable:
+      strattack_s_3: 195451839
+      strattack_s_26: 617263411
+      strattack_s_25: -799075818
+      strattack_s_17: -648364917
+      strattack_s_9: 1744040684
+      strattack_s_18: 810936700
+      strattack_s_12: 1197817084
+      strattack_s_15: 1195305918
+      strattack_s_13: 1115493537
+      strattack_s_6: 1019865650
+      strattack_s_7: 924108354
+      strattack_s_10: 2108391647
+      strattack_s_8: 77276994
+      strattack_s_23: 41578072
+      strattack_s_28: -1500646266
+      strattack_s_27: -2034748133
+      strattack_s_1: -1317488236
+      strattack_s_29: -1763505081
+      strattack_s_16: 1721954552
+      strattack_s_31: -1711073401
+      strattack_s_11: 26399440
+      strattack_s_20: -943037584
+      strattack_s_24: -1516449156
+      strattack_s_0: 2112426241
+      strattack_s_30: 1752570411
+      strattack_s_2: 288878631
+      strattack_s_22: 1985193684
+      strattack_s_5: 428213847
+      strattack_s_4: -77565243
+      strattack_s_14: -1286475745
+      strattack_s_19: -807242073
+      strattack_s_21: -725689506
+  spritePackingTag: 
+  pSDRemoveMatte: 0
+  pSDShowRemoveMatteOption: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
